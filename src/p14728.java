@@ -32,6 +32,7 @@ public class p14728 {
 
         }
         bw.write(String.valueOf(timeDp[T]));
+        bw.write(Arrays.toString(timeDp)); //전체 배열
         bw.flush();
 
 

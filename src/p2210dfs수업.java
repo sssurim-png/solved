@@ -4,9 +4,8 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
-public class p2210 {
+public class p2210dfs수업 {
 
-    static List<List<Integer>> list = new ArrayList<>();
     static  int[][] arr = new int[5][5];
     static int [] dx ={-1,1,0,0};
     static int [] dy ={0,0,-1,1};
